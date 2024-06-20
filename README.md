@@ -11,5 +11,3 @@ python main.py
 ```
 The crawled data will be stored in the `data` directory
 
-## TODO
-- Crawl the first 10 pages instead of the first one ;)
